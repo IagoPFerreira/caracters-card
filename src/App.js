@@ -1,9 +1,9 @@
 import './App.css';
-import Tests from './components/Tests';
+import HeroList from './components/HeroList';
 
 function App() {
   return (
-    <Tests />
+    <HeroList />
   );
 }
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import fetcher from '../services/fetch';
 
-class Tests extends Component {
+class HeroList extends Component {
   constructor() {
     super();
     this.state = {
@@ -40,4 +40,4 @@ class Tests extends Component {
   }
 }
 
-export default Tests;
+export default HeroList;
