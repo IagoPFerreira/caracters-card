@@ -1,6 +1,6 @@
 const heroes = [
   {
-    "id": "162",
+    "id": "1",
     "name": "Carnage",
     "powerstats": {
       "intelligence": "63",
@@ -49,7 +49,7 @@ const heroes = [
     }
   },
   {
-    "id": "572",
+    "id": "2",
     "name": "Sandman",
     "powerstats": {
       "intelligence": "44",
@@ -99,7 +99,7 @@ const heroes = [
     }
   },
   {
-    "id": "699",
+    "id": "3",
     "name": "Vixen",
     "powerstats": {
       "intelligence": "50",
@@ -147,7 +147,7 @@ const heroes = [
     }
   },
   {
-    "id": "723",
+    "id": "4",
     "name": "X-23",
     "powerstats": {
       "intelligence": "75",
@@ -200,7 +200,7 @@ const heroes = [
     }
   },
   {
-    "id": "470",
+    "id": "5",
     "name": "Moon Knight",
     "powerstats": {
       "intelligence": "50",
@@ -253,7 +253,7 @@ const heroes = [
     }
   },
   {
-    "id": "416",
+    "id": "6",
     "name": "Luke Cage",
     "powerstats": {
       "intelligence": "50",
