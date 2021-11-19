@@ -1,9 +1,9 @@
 import './App.css';
-import HeroList from './components/HeroList';
+import Switcher from './components/Switcher';
 
 function App() {
   return (
-    <HeroList />
+    <Switcher />
   );
 }
 
