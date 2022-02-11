@@ -1,4 +1,4 @@
-# Bem vindo ao repositório do projeto Caracters-card
+# Bem vindo ao repositório do projeto Characters-card
 
 Esse projeto foi desenvolvido como um projeto de revisão do conteúdo de React, para as pessoas estudantes do curso de Desenvolvimento Web da Trybe, o objetivo desse projeto era construir uma aplicação onde seria possivel criar cartões de alguns personagens de quadrinhos e filmes, as tecnologias usadas para desenvolver esse projeto foram React e CSS.
 
@@ -33,13 +33,13 @@ cd projetos
 Passo 3. Clone o projeto:
 
 ~~~bash
-git clone git@github.com:IagoPFerreira/caracters-card.git
+git clone git@github.com:IagoPFerreira/characters-card.git
 ~~~
 
 Passo 4. Após terminado a clonagem, entre no diretório que você acabou de clonar:
 
 ~~~bash
-cd caracters-card
+cd characters-card
 ~~~
 
 Passo 5. Instale todas as dependências do projeto:
@@ -56,7 +56,7 @@ npm start
 
 A aplicação será aberta no seu navegador automaticamente, e ela deve se parecer com essa:
 
-![preview](./caracters-card.png)
+![preview](./characters-card.png)
 
 ---
 
