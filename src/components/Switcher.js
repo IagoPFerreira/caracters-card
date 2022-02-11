@@ -8,9 +8,9 @@ class Switcher extends Component {
   render() {
     return (
       <Switch>
-        <Route exact path="/form" component={AddCharacter} />
-        <Route path="/:id" component={CharacterDetails} />
-        <Route exact path="/" component={Home} />
+        <Route exact path="/character-card/form" component={AddCharacter} />
+        <Route path="/character-card/:id" component={CharacterDetails} />
+        <Route exact path="/character-card/" component={Home} />
       </Switch>
     );
   }
