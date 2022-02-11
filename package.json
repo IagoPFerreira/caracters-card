@@ -1,6 +1,6 @@
 {
-  "homepage": "https://IagoPFerreira.github.io/character-card",
-  "name": "user-card",
+  "homepage": "https://IagoPFerreira.github.io/characters-card",
+  "name": "characters-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
